@@ -57,6 +57,16 @@ Webhook 요청 수신 → status 값 조건 분기 → Google Sheets 기록 + Gm
 - 도구 2 ( n8n ): Webhook 노드 생성 → IF 노드로 조건식 입력 → True/False 각 경로에
   Google Sheets 노드 연결 → Credential 인증 → Gmail 노드 연결 → 실행 테스트
 
+---
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/c521b9f1-7211-4784-81f5-a2c33aebf38a" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/76c2272d-1a22-42b3-9d43-40dbf2a2b80e" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/924f4399-be4c-4f60-9e46-5711405091e7" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/6b0406fe-1b44-47d1-b818-2f0c89ae5563" />
+---
+
 #### 비교 항목표 (5개 이상)
 
 | 비교 항목 | 도구 1: `Make` | 도구 2: `n8n` |
