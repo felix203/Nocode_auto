@@ -57,13 +57,13 @@ Webhook 요청 수신 → status 값 조건 분기 → Google Sheets 기록 + Gm
   Google Sheets 노드 연결 → Credential 인증 → Gmail 노드 연결 → 실행 테스트
 
 ---
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/c521b9f1-7211-4784-81f5-a2c33aebf38a" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/13db5a88-001e-480e-8cbe-136bebd8b770" />
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/76c2272d-1a22-42b3-9d43-40dbf2a2b80e" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/475bc07a-4132-4862-891a-db2715c1f200" />
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/924f4399-be4c-4f60-9e46-5711405091e7" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e6d98f39-2d3e-4bdf-8645-b75a24e4bc20" />
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/6b0406fe-1b44-47d1-b818-2f0c89ae5563" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/5a2fdd67-5e7b-4977-b33c-9d5f90102e19" />
 ---
 
 #### 비교 항목표 (5개 이상)
