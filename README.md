@@ -42,10 +42,9 @@ Webhook 요청 수신 → status 값 조건 분기 → Google Sheets 기록 + Gm
 
 ---
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e43f9d4f-2c7c-438c-a933-0d0c08209cc2" />
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/70e27cdb-1e3c-4db3-b4b5-bb618f197618" />
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/591502bd-3903-4f6f-956b-743cb5ae6f06" />
-
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e5476005-d7cd-4dd9-b33d-8aec862f74e6" />
 ---
 
 ### 1-6. 비교 분석 보고서
