@@ -133,11 +133,13 @@ Google Sheets에 등록된 할 일 목록을 읽어와,
 
 ## 4. 워크플로우 흐름
 Search Rows → Router → [임박 경로] → Gmail 발송
-<div>
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/e74dfda2-0ab9-433e-ae2a-f1070d31cefd" />
 
-<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1dd71114-ae7b-467f-9d63-5dc22a67a6f9" />
-</div>
+---
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/32bbd7ec-a69a-481b-be20-408671186bb7" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/38061e28-5fab-49c8-b1ed-25324fe1524e" />
+---
+
 ## 5. 핵심 로직
 - parseDate(마감일; YYYY-MM-DD) 로 텍스트→날짜 변환
 - addDays(now; 1) = 내일 기준
