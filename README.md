@@ -148,8 +148,8 @@ Google Sheets에 등록된 할 일 목록을 읽어와,
 ## 3. 트리거 & 액션
 - 트리거 : 오전 10시 자동 실행(첨부 사진은 빠른 검증을 위한 수동 실행)
 - 액션 1 : Google Sheets - Search Rows (할일 목록 조회)
-- 액션 2 : Router - 마감일 D-1 조건 분기
-- 액션 3 : Gmail - Send an Email (임박 항목 알림 발송)
+- 조건 분기 : Router - 마감일 D-1 
+- 액션 2 : Gmail - Send an Email (임박 항목 알림 발송)
 
 ## 4. 워크플로우 흐름
 Search Rows → Router → [임박 경로] → Gmail 발송
